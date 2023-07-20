@@ -1,0 +1,6 @@
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\obj\Debug\DataAccessLayerSignUp.csprojAssemblyReference.cache
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\obj\Debug\DataAccessLayerSignUp.csproj.CoreCompileInputs.cache
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\bin\Debug\DataAccessLayerSignUp.dll
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\bin\Debug\DataAccessLayerSignUp.pdb
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\obj\Debug\DataAccessLayerSignUp.dll
+F:\AIUB\SEMESTER 5\OOP2\Library Management System\DataAccessLayerSignUp\obj\Debug\DataAccessLayerSignUp.pdb
